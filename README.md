@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EnzoGabrielpvdl
+-📈📊I’m interested in data science
+-🖥 I’m currently learning statistics at uni
